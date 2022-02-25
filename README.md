@@ -47,6 +47,9 @@ There are two levels to this homework assignment. The second level is optional b
   **Review ID table**
   
   ![review_id_table](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/review_id_table.JPG)
+  
+  **Customers table**
+  ![customers_table](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/customers.JPG)
 
 ### Level 2
 
