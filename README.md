@@ -43,7 +43,9 @@ There are two levels to this homework assignment. The second level is optional b
   * **Transform** the dataset to fit the tables in the [schema file](../Resources/schema.sql). Be sure the DataFrames match in data type and in column name.
 
   * **Load** the DataFrames that correspond to tables into an RDS instance. **Note:** This process can take up to 10 minutes for each. Be sure that everything is correct before uploading.
-  ![review_id_table.jpg](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/review_id_table.JPG)
+  
+  **Review ID table**
+  (https://github.com/edtorrente/big-data-challenge/blob/main/Resources/review_id_table.JPG)
 
 ### Level 2
 
