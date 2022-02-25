@@ -51,6 +51,10 @@ There are two levels to this homework assignment. The second level is optional b
   **Customers table**
   
   ![customers_table](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/customers.JPG)
+  
+  **Products table
+  
+  ![products_table](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/products.JPG)
 
 ### Level 2
 
