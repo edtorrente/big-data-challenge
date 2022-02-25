@@ -55,6 +55,10 @@ There are two levels to this homework assignment. The second level is optional b
   **Products table
   
   ![products_table](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/products.JPG)
+  
+  **Vine table
+  
+  ![vine_table](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/vine_table.JPG)
 
 ### Level 2
 
