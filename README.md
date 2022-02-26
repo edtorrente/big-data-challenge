@@ -76,6 +76,10 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 * Submit a summary of your findings and analysis.
 
+**Level-2 Summary findings:
+
+![stat.png](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/stat.png)
+
 
 
 ## Submission
