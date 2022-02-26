@@ -78,6 +78,12 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 **Level-2 Summary findings:
 
+In order to determine if vine users are trustworthy I seperated registered vine users from the vine_table who gave 5-star reviews to paid and unpaid. The top table represents the paid users who gave 5-stars reviews, and as the table suggests no paid vine users provided 5-star reviews. 
+
+The oppossite is true however, when it came to non-paid vine user where I found that 20,201 provided reviews and sixty-one percent provide 5-star reviews.
+
+It difficult to come to a conclusion but in this particular dataset it was found that vine reviews are not biased.
+
 ![stat.png](https://github.com/edtorrente/big-data-challenge/blob/main/Resources/stat.png)
 
 
